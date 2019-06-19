@@ -1,0 +1,66 @@
+body {
+    background-image: url("C:/Users/Ricardo/Desktop/CodingBootcamp/Homework/Week1/Basic-Portfolio/assets/images/gravel.png");
+    
+}
+
+.myname {
+    background: #4aaaa5;
+    padding: 20px;
+    text-align: center;
+    font-family: 'Georgia', Times, 'Times New Roman', serif;
+    color: white;
+    font-size: 36px;
+    font-weight: 400;  
+
+}
+
+.nav-links {
+    padding-top: 35px;
+}
+
+.nav-links a{
+    margin: 8px;
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;   
+    color: #777777;
+}
+
+.nav-border {
+    border: solid 1px #cccccc;
+    
+}
+
+.aboutme {
+    background: #ffffff;
+    border: solid 1px #dddddd;
+    margin-top: 40px;
+    margin-bottom: 60px;
+
+}
+
+.aboutme p {
+    margin-top: 20px;
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;   
+    color: #777777;
+}
+
+img {
+    height: 200px;
+    width: 200px;
+    float: left;
+    margin: 12px;
+}
+
+#footer1 {
+    background: #4aaaa5;
+    margin-top: 30px;
+    width: 100%;
+    padding: 10px;
+}
+
+#footer2 {
+    background: #666666;
+    width: 100%;
+    text-align: center;
+    padding-bottom: 50px;
+}
+
