@@ -64,3 +64,9 @@ img {
     padding-bottom: 50px;
 }
 
+.images {
+    margin-top: 20px;
+    margin-left: 220px;
+    width: 50%;
+    background: white;
+}
