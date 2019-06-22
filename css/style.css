@@ -1,6 +1,6 @@
-body {
-    background-image: url("C:/Users/Ricardo/Desktop/CodingBootcamp/Homework/Week1/Basic-Portfolio/assets/images/gravel.png");
-    
+.container {
+    background: #ffffff;
+    width: 50%;
 }
 
 .myname {
@@ -70,3 +70,10 @@ img {
     width: 50%;
     background: white;
 }
+
+#img1, #img2, #img3, #img4, #img5, #img6 {
+    background: #4aaaa5;
+    width: 200px;
+    margin: 10px;
+    color: #ffffff;
+} 
