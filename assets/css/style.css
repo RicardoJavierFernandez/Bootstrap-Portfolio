@@ -125,11 +125,19 @@ button:hover {
 
 /*Footer styling*/
 /* Styling for the green colored footer*/
+
+footer{
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+}
 #footer1 {
     background: #4aaaa5;
     margin-top: 30px;
     width: 100%;
     padding: 10px;
+    
 }
 /* Styling for the green colored footer*/
 #footer2 {
