@@ -57,6 +57,11 @@ button {
     font-size: 14px;
 }
 
+button:hover {
+    background: orange;
+    border: solid 1px;
+}
+
 /* About Me page styling */
 .aboutme {
     background: #ffffff;
