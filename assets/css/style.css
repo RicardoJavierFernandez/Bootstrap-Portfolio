@@ -1,6 +1,6 @@
 /* Navbar styling */
 .myname {
-    background: #4aaaa5;
+    background: #777777;
     padding: 20px;
     text-align: center;
     font-family: 'Georgia', Times, 'Times New Roman', serif;
@@ -20,6 +20,10 @@
     color: #777777;
 }
 
+.nav-links a:hover {
+    color: #ffffff;
+}
+
 .nav-border {
     border: solid 1px #cccccc;
     
@@ -36,7 +40,7 @@
     width: 50%;
     margin-top: 40px;
     padding: 10px;
-    color: #4aaaa5;
+    color: #000000;
 }
 
 .contact h2, input {
@@ -50,7 +54,7 @@
 }
 
 button {
-    background: #4aaaa5;
+    background: #000000;
     color: #ffffff;
     border: none;
     padding: 12px, 24px;
@@ -71,7 +75,7 @@ button:hover {
 }
 
 .aboutme h4{
-    color: #4aaaa5;
+    color: #000000;
 }
 
 .aboutme p {
@@ -81,7 +85,7 @@ button:hover {
 }
 
 #about-me-img {
-    height: 200px;
+    height: 300px;
     width: 200px;
     float: left;
     margin: 12px;
@@ -97,7 +101,7 @@ button:hover {
 }
 
 .portfolio-body-main h4 {
-    color: #4aaaa5;
+    color: #000000;
 }
 
 .portfolio-body-inside {
@@ -117,7 +121,7 @@ button:hover {
 .image-text {
     font-size: 18px;
     text-align: center;
-    background: #4aaaa5;
+    background: #000000;
     color: #ffffff;
     padding-top: 10px;
     margin-bottom: 100px;
@@ -133,7 +137,7 @@ footer{
     width: 100%;
 }
 #footer1 {
-    background: #4aaaa5;
+    background: #ffffff;
     margin-top: 30px;
     width: 100%;
     padding: 10px;
